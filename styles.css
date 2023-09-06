@@ -1,0 +1,47 @@
+/* Body */
+body {
+    background-color: white;
+    color: #333; /* Dark Grey */
+}
+
+/* Navigation Bar */
+.navbar {
+    background-color: #6a5acd; /* Light Purple */
+}
+
+.navbar-dark .navbar-toggler-icon {
+    background-color: #333; /* Dark Grey */
+}
+
+.navbar-dark .navbar-toggler-icon:focus {
+    outline: none;
+}
+
+/* Hero Section */
+.hero {
+    background-color: #6a5acd; /* Light Purple */
+}
+
+/* About Section */
+#about {
+    background-color: white;
+}
+
+/* Portfolio Section */
+#portfolio {
+    background-color: #f8f9fa; /* Light Grey */
+}
+
+/* Contact Section */
+#contact {
+    background-color: white;
+}
+
+/* Link Color */
+a {
+    color: #6a5acd; /* Light Purple */
+}
+
+a:hover {
+    color: #333; /* Dark Grey */
+}
